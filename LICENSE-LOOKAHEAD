@@ -1,0 +1,5 @@
+The files under src/main/java/org/javacc/audit and src/test/java/org/javacc/audit
+are adapted from JSQLParser commit 1c729e4634bf44fe451e1a3fedbbb3404a7df41f.
+Their original copyright notices are retained. These files are used under the
+Apache License 2.0 option of their original dual license. See LICENSE-APACHEV2.
+The remainder of JavaCC retains its existing license.

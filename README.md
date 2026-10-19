@@ -5,3 +5,5 @@ This is the JavaCC **core** Git repository / Java & Maven project of JavaCC vers
 For an end user view of JavaCC, see the **README.md** at [javacc-8](https://github.com/javacc/javacc-8).
 
 For a technical view of the different projects of JavaCC v8, see the **README_BUILD.md** at [javacc-8/README_BUILD.md](https://github.com/javacc/javacc-8/README_BUILD.md)
+
+The optional [lookahead review CLI and API](LOOKAHEAD_AUDIT.md) reports changed grammar decisions and stale scoped review evidence.
